@@ -9,8 +9,8 @@ public class collections {
 		
 		System.out.println("--** List Collection **--");
 		List list = new ArrayList();
-		list.add("Apple");
-		list.add("Chocolate Chip Cookie");
+		list.add("Sugar");
+		list.add("Chocolate Chip's");
 		list.add("Spanish vanilla");
 		list.add("Candy Cane");
 		list.add("Spaghetti Noodles");
@@ -31,8 +31,8 @@ public class collections {
 
 		System.out.println("--** Set Collection **--");
 		Set set = new TreeSet();
-		set.add("Banana");
 		set.add("Apple");
+		set.add("Bananna");
 		set.add("Orange");
 		set.add("Grape Fruit");
 		set.add("Lemon");
